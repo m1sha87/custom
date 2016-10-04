@@ -2,7 +2,6 @@
 
 abstract class Controller {
 
-
 	protected $_template;
 	protected $_variables;
 
